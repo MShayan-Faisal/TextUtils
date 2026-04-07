@@ -1,58 +1,65 @@
-# TextUtils
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+# 📝 TextUtils (React.js)
 
-Available Scripts
-In the project directory, you can run:
+The **TextUtils App** is a simple and powerful text utility web application built using **React.js**. It allows users to quickly analyze and manipulate text with various useful functions in a clean and responsive interface.
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+This project is designed to practice React fundamentals such as state management, event handling, and conditional rendering.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+---
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+## 🚀 Features
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🔤 Convert text to Uppercase  
+- 🔡 Convert text to Lowercase  
+- 📋 Copy text to clipboard  
+- 🧹 Clear text instantly  
+- 🔢 Count words and characters  
+- ⏱️ Estimate reading time  
+- 🌙 Light / Dark mode toggle (optional feature)  
+- 📱 Fully responsive design  
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+---
 
-See the section about deployment for more information.
+## 🧰 Tech Stack
 
-npm run eject
-Note: this is a one-way operation. Once you eject, you can’t go back!
+- React.js (Create React App)  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3 / Tailwind CSS  
+- React Hooks (useState)  
 
-If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🎯 Purpose
 
-You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project was built to strengthen understanding of **React basics**, including:
 
-Learn More
-You can learn more in the Create React App documentation.
+- Handling user input  
+- Managing state with hooks  
+- Conditional rendering  
+- Building reusable components  
+- Creating interactive UI tools  
 
-To learn React, check out the React documentation.
+---
 
-Code Splitting
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## ⚙️ How It Works
 
-Analyzing the Bundle Size
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+1. User enters text in the input area  
+2. Selects any action (uppercase, lowercase, etc.)  
+3. App instantly processes and updates text  
+4. Results are displayed in real time  
 
-Making a Progressive Web App
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+---
 
-Advanced Configuration
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 🚀 Future Improvements
 
-Deployment
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- 📊 Text readability score  
+- 🔊 Text-to-speech feature  
+- 🌐 Multilingual support  
+- 💾 Save history of text changes  
+- 🎨 More UI themes  
 
-npm run build fails to minify
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License.
